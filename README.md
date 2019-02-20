@@ -9,7 +9,7 @@ This assignment will walk you through some of the classical and cutting edge tec
 
 Contents:
 |-> stock_table.csv   : A stock table for the excersize.
-|-> cse440ProtOpt.pdf : The assignment guide
+|-> cse440PortOpt.pdf : The assignment guide
 
 To view the code use:
 https://nbviewer.jupyter.org/github/sari-saba-sadiya/portfolioOptPython/blob/master/protOpt_censored.ipynb
