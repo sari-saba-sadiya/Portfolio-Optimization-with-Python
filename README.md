@@ -12,4 +12,4 @@ Contents:
 |-> cse440PortOpt.pdf : The assignment guide
 
 To view the code use:
-https://nbviewer.jupyter.org/github/sari-saba-sadiya/portfolioOptPython/blob/master/protOpt_censored.ipynb
+https://nbviewer.jupyter.org/github/sari-saba-sadiya/portfolioOptPython/blob/master/portOpt_censored.ipynb
