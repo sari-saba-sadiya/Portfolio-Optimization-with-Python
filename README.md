@@ -8,8 +8,8 @@ Modern portfolio theory (MPT) was formulated by the economist Harry Markowitz at
 This assignment will walk you through some of the classical and cutting edge techniques in portfolio optimization using the python convex optimization packadge CVXPY.
   
 Contents:  
-|-> stock_table.csv   : A stock table for the excersize.  
-|-> cse440PortOpt.pdf : The assignment guide  
+  |-> stock_table.csv   : A stock table for the excersize.    
+  |-> cse440PortOpt.pdf : The assignment guide  
 
 To view the code use:
 https://nbviewer.jupyter.org/github/sari-saba-sadiya/portfolioOptPython/blob/master/portOpt_censored.ipynb
