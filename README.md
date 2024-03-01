@@ -1,4 +1,4 @@
-# portfolioOptPython
+# Stock Portfolio Optimization with Python
 Author: Sari Saba-Sadiya
 
 For students in cse440 introduction for artificial intellegence, spring 2019.
